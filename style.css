@@ -41,7 +41,7 @@ ul {
 li, h3 {
   list-style:none;
 }
-input,button{
+input, button {
   outline:none;
 }
 button {
@@ -97,7 +97,6 @@ li {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -115,7 +114,7 @@ li > label {
   font-size: 18px;
   width: 226px;
 }
-li >    input[type="text"] {
+li > input[type="text"] {
   width: 226px
 }
 button.delete img {
